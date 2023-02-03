@@ -8,5 +8,5 @@ class Dog:
         print(f"{self.name} barked!")
 
 
-dog = Dog("Max", "Labrador", 3)
+dog = Dog("Chris", "Yorkshire", 3)
 dog.bark()
