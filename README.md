@@ -14,8 +14,6 @@
 ## Programming Languages
 * Java
 * Python 
-* C
-* C++
 * Javascript
 
 ![](https://www.itprotoday.com/sites/itprotoday.com/files/programming.jpg)
