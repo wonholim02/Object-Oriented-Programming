@@ -18,7 +18,8 @@
 
 ## Directories
 * ATM Controller
-* General Coding Basics
-* 
+* General-Coding-Basics
+* Java OOP
+* Python OOP
 
 ![](https://www.itprotoday.com/sites/itprotoday.com/files/programming.jpg)
