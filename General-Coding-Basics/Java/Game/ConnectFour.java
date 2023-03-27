@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 /**************************************************************************
 Name: Wonho Lim 
-TYPE: Bugil Academy
 Description: This program allows users to play game that one who connects
 four indexes first wins.
 ***************************************************************************/ 
