@@ -1,6 +1,5 @@
 /**************************************************************************
 Name: Wonho Lim 
-TYPE: Bugil Academy
 Description: This program contains methods that can be used as a game board
 and a processor for ConnectFour class.
 ***************************************************************************/  
