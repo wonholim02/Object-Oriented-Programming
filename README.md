@@ -8,7 +8,7 @@
 
 ## Programming Languages
 * Java 
-* Python 
+* Python
 * Javascript
 
 ## Directories
