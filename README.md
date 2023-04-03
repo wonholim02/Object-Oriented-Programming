@@ -9,6 +9,8 @@
 ## Programming Languages
 * Java 
 * Python
+* C
+* Assembly
 * Javascript
 
 ## Directories
