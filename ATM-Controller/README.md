@@ -6,7 +6,7 @@
 | Wonho Lim | wlim49@gatech.edu    | Georgia Institute of Technology  |
 ---------------------------------------------------------------------------------------
 ## Programming Languages
-* Java
+* Java 
 ---------------------------------------------------------------------------------------
 ## Cloning the Project
 ### To clone the project, run the following command in your terminal or command prompt:
