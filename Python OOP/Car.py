@@ -6,7 +6,7 @@ class Car:
         self.speed = 0
 
     def accelerate(self):
-        self.speed += 10
+        self.speed += 10 
 
     def brake(self):
         self.speed = max(0, self.speed - 7)
