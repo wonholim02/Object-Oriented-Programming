@@ -11,7 +11,6 @@
 * Python
 * C
 * Assembly
-* Javascript
 
 ## Directories
 * ATM Controller
